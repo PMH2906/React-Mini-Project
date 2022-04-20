@@ -1,7 +1,7 @@
 # React-Mini-Project
 
-## PURPOSE
 
+## subject
 * React Web 구현
 * News
 

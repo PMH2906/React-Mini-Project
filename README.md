@@ -1,9 +1,9 @@
 # React-Mini-Project
 
 
-## subject
+## Subject
 * React Web 구현
-* News
+* News Web Page
 
 ## MEMBER
 * [김도현](https://github.com/주소) 🌷

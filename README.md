@@ -6,10 +6,10 @@
 * News Web Page
 
 ## MEMBER
-* [김도현](https://github.com/주소) 🌷
+* [김도현](https://github.com/thovy) 🌷
 * [명지안](https://github.com/주소) 🌼
 * [박미희](https://github.com/PMH2906) 🌻
-* [이세운](https://github.com/주소) :rose:
+* [이세운](https://github.com/sleet99) :rose:
 
 ## RESULT
 * UI화면구성

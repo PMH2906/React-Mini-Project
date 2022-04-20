@@ -6,17 +6,17 @@
 * News
 
 ## MEMBER
-* [이름](https://github.com/주소) 🌷
-* [이름](https://github.com/주소) 🌼
-* [이름](https://github.com/주소) 🌻
-* [이름](https://github.com/주소) 🌷
+* [김도현](https://github.com/주소) 🌷
+* [](https://github.com/주소) 🌼
+* [박미희](https://github.com/주소) 🌻
+* [이세운](https://github.com/주소) 🌷
 
 ## RESULT
 * UI화면구성
 * 웹 구현 gif
 
 
-## 💻Trouble Shooting💻
+## :exclamation:Trouble Shooting:exclamation:
 * Trouble Shooting link
 
 

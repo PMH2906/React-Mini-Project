@@ -7,8 +7,8 @@
 
 ## MEMBER
 * [김도현](https://github.com/주소) 🌷
-* [](https://github.com/주소) 🌼
-* [박미희](https://github.com/주소) 🌻
+* [명지안](https://github.com/주소) 🌼
+* [박미희](https://github.com/PMH2906) 🌻
 * [이세운](https://github.com/주소) 🌷
 
 ## RESULT

@@ -17,7 +17,7 @@
 
 
 ## Trouble Shooting
-* [Trouble Shooting](./TroubleShooting.md)
+:exclamation: [Trouble Shooting](./TroubleShooting.md) :exclamation:
 
 ## 느낀점
 

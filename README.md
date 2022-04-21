@@ -12,6 +12,7 @@
 
 ## RESULT
 UI화면구성
+
 <img src="/UI.png" width="300" height="250">
 
 * 웹 구현 gif

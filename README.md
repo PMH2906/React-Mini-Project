@@ -8,7 +8,7 @@
 ## MEMBER
 * [김도현](https://github.com/thovy) 🌷Cancel changes
 * [명지안](https://github.com/주소) 🌼
-* [박미희](https://github.com/PMH2906) 🌻
+* [박미희](https://github.com/PMH2906) 🌻Cancel changes
 * [이세운](https://github.com/sleet99) :rose:
 
 ## RESULT
@@ -17,7 +17,7 @@
 
 
 ## Trouble Shooting
-* [Trouble Shooting](./Trouble Shooting.md)
+* [Trouble Shooting](./TroubleShooting.md)
 
 ## 느낀점
 

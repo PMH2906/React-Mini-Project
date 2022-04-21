@@ -11,8 +11,8 @@
 * [이세운](https://github.com/sleet99) :rose:
 
 ## RESULT
-* UI화면구성
-<img src="/UI.png" width="280" height="200">
+UI화면구성
+<img src="/UI.png" width="300" height="250">
 
 * 웹 구현 gif
 

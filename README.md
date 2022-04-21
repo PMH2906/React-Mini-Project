@@ -15,7 +15,7 @@ UI화면구성
 
 <img src="/UI.png" width="300" height="250">
 
-* 웹 구현 gif
+Web 동작 gif
 
 
 ## Trouble Shooting

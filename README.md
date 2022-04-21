@@ -22,7 +22,7 @@ Web 동작 gif
 :exclamation: [Trouble Shooting](./TroubleShooting.md) :exclamation:
 
 ## 느낀점
-강의 시간에는 React와 Node.js를 사용한 API연동을 따로 배웠지만, 해당 프로젝트에는 두 개의 연동이 필요해 난이도가 매우 어려웠다. React(Cient)와 API연동 Server의 연동을 위해 중간 서버(proxy server)를 거쳐 연동하였다. 또한 카테고리 버튼을 클릭 시 해당 분야에 맞는 뉴스를 재스크롤 가능하도록 구현하기 위해 fetch 함수를 구현하는 법을 배웠다. 해당 프로젝트에서 client와 Server 사이의 데이터의 응답/요청에 대해 깊이 있게 배울 수 있었다. 
+강의 시간에는 React와 Node.js를 사용한 API연동을 따로 배웠지만, 해당 프로젝트에는 두 개의 연동이 필요해 난이도가 매우 어려웠다. React(Cient)와 API연동 Server의 연동을 위해 중간 서버(proxy server)를 거쳐 연동하였다. 또한 카테고리 버튼을 클릭 시 해당 분야에 맞는 뉴스를 재스크롤 가능하도록 구현하기 위해 fetch 함수를 사용하였고, /routes/index.js파일(API와 연동된 Server)에서 request의 query를 이용하여 값을 받을 수 있도록 구성하였다. 해당 프로젝트에서 client와 Server 사이의 데이터의 응답/요청에 대해 깊이 있게 배울 수 있었다. 
 
 ## REFERENCE
 * Naver NEWS 

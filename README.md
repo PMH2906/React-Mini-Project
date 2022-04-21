@@ -2,7 +2,7 @@
 
 
 ## Subject
-* React x Naver News 검색 API를 사용하여 News Web Page 구현
+React x Naver News 검색 API를 사용하여 News Web Page 구현
 
 ## MEMBER
 * [김도현](https://github.com/thovy) 🌷

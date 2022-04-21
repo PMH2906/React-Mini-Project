@@ -26,7 +26,7 @@
 
   [https://news.naver.com/](https://news.naver.com/)
 
-* Node X React 연동 : 
+* Node X React 연동
 
   [https://gaemi606.tistory.com/33 ](https://gaemi606.tistory.com/33)
 

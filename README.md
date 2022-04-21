@@ -17,7 +17,7 @@
 
 
 ## Trouble Shooting
-* [Trouble Shooting](.Trouble Shooting.md)
+* [Trouble Shooting](./Trouble Shooting.md)
 
 ## 느낀점
 

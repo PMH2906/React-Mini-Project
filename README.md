@@ -1,7 +1,7 @@
 # News Web
 
 
-## Subject
+## SUBJECT
 React x Naver News 검색 API를 사용하여 News Web Page 구현
 
 카테고리 버튼 클릭 시, 카테고리 분야에 맞는 News 리스트 출력
@@ -20,7 +20,7 @@ UI화면구성
 Web 동작 gif
 
 
-## Trouble Shooting
+## TROUBLE SHOOTING
 :exclamation: [Trouble Shooting](./TroubleShooting.md) :exclamation:
 
 ## 느낀점

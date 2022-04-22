@@ -3,6 +3,7 @@
 
 ## Subject
 React x Naver News 검색 API를 사용하여 News Web Page 구현
+
 카테고리 버튼 클릭 시, 카테고리 분야에 맞는 News 리스트 출력
 
 ## MEMBER

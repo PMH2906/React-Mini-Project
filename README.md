@@ -21,7 +21,7 @@ UI Architecture
 
 <img src="/UI/2-3.png" width="200" height="250">           <img src="/UI/2-4.png" width="200" height="250">           <img src="/UI/1.png" width="200" height="250"> 
 
-<img src="/UI.png" width="400" height="250">         <img src="/webpage.gif" width="400" height="250">
+<img src="/UI.png" width="400" height="250">         <img src="/UI/webpage.gif" width="400" height="250">
 
 ## TROUBLE SHOOTING
 :exclamation: [Trouble Shooting](./TroubleShooting.md) :exclamation:

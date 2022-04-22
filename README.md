@@ -17,8 +17,7 @@ UI화면구성
 
 <img src="/UI.png" width="300" height="250">
 
-Web 동작 gif
-
+<img src="/실행영상.gif">
 
 ## TROUBLE SHOOTING
 :exclamation: [Trouble Shooting](./TroubleShooting.md) :exclamation:

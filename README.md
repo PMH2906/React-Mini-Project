@@ -15,7 +15,7 @@ React x Naver News 검색 API를 사용하여 News Web Page 구현
 ## RESULT
 Server Architecture
 
-<img src="/UI/3-3.png" width="600" height="350">
+<img src="/UI/3-3.png" width="550" height="350">
 
 UI Architecture
 

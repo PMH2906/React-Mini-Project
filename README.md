@@ -15,9 +15,9 @@ React x Naver News 검색 API를 사용하여 News Web Page 구현
 ## RESULT
 UI화면구성
 
-<img src="/UI.png" width="300" height="250">
+<img src="/UI.png" width="400" height="250">
 
-<img src="/webpage.gif" width="300" height="250">
+<img src="/webpage.gif" width="400" height="250">
 
 ## TROUBLE SHOOTING
 :exclamation: [Trouble Shooting](./TroubleShooting.md) :exclamation:
